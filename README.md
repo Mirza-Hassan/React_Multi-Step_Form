@@ -11,4 +11,4 @@ Create a React component for a multi-step form with at least three different que
 ![Demo](https://github.com/Mirza-Hassan/React_Multi-Step_Form/assets/17096257/2e996b0c-2294-4494-905d-eabcc6d4796c)
 
 ### Live URL 
-https://home-rent-form.netlify.app/
+https://multi-form-app.netlify.app/
